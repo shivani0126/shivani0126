@@ -70,7 +70,7 @@ Welcome to my GitHub profile! I'm an aspiring **Data Analyst** and **Data Scienc
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-D84C3C?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 
 ---
-
+### **Details:**
 - 🌱 I’m currently learning: Machine Learning (ML) / Deep Learning (DL)
 
 - 👯 I’m looking to collaborate on: Open Source Projects
