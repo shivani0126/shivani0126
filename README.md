@@ -71,9 +71,9 @@ Welcome to my GitHub profile! I'm an aspiring **Data Analyst** and **Data Scienc
 
 ---
 ### **Details:**
-- 🌱 I’m currently learning: Machine Learning (ML) / Deep Learning (DL)
+- 🌱 I’m currently learning: Machine Learning (ML) / Deep Learning (DL).
 
-- 👯 I’m looking to collaborate on: Open Source Projects
+- 👯 I’m looking to collaborate on: Open Source Projects.
 
 ## 📫 **Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shivani-joshi-9880b3205/)    
